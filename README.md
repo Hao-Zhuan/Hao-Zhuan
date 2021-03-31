@@ -3,3 +3,5 @@
 - 🌱 I’m currently learning C++、DataStructere&Algorithm
 - 💞️ I’m looking to collaborate on some algorithm comptition
 - 📫 reach me at jacobzhuan@qq.com
+- recently Im learing to solve jianhioffer's 67 problems on newcoder.com so Im not gonna push forward too often.
+- https://www.nowcoder.com/profile/803933738

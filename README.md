@@ -5,3 +5,5 @@
 - 📫 reach me at jacobzhuan@qq.com
 - recently Im learing to solve jianhioffer's 67 problems on newcoder.com so Im not gonna push forward too often.
 - https://www.nowcoder.com/profile/803933738
+
+最近在刷力扣，所以更新频率会低一些。
